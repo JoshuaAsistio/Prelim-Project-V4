@@ -1,0 +1,16 @@
+a.  Laboratory Subjects
+
+II. If scoring convert the scores using Rating = (( TScore/TNoItems) *50) + 50
+III.Class Standing = Quizzes + Recitation 
+IV. Class average = ((Class Standing *2) + Exam Rating)/3
+V. Lecture = Class Average *60%
+VI. Laboratory = Project *40%
+VII. Prelim Grade = Lecture + Laboratory
+
+b.Non- Laboratory Subjects.
+
+I. If averaging compute directly the ratings
+II. If scoring convert the scores using:
+Rating = ((TScore/TNoItems) * 50) + 50 (DONE)
+III. Class Standing = (Quizzes+ Recitation+ Project/Assignment) / 3
+IV. Prelim Grade = (( Class Standing *2) + Exam Rating) / 3
